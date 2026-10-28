@@ -1,0 +1,3098 @@
+{
+  "curso": "Engenharia de Computação",
+  "instituicao": "UEFS",
+  "periodo": "2026.2",
+  "curriculo": "Resolução CONSEPE 073/2023 (ingressantes a partir de 2024.1)",
+  "fontes": [
+    "SAGRES — Horários finais 2026.2, emissão 22/07/2026",
+    "Resolução CONSEPE 073/2023"
+  ],
+  "disciplinas": [
+    {
+      "codigo": "BIO606",
+      "nome": "Educação Ambiental",
+      "tipo": "optativa_complementar",
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Viviane Souza Martins"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "09:30",
+              "fim": "12:30",
+              "local": "PAT17 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Optativa complementar"
+    },
+    {
+      "codigo": "CHF400",
+      "nome": "Ciência Política",
+      "tipo": "optativa_humanistica",
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "T03",
+          "professores": [
+            "Clodoaldo Almeida Da Paixão"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": null
+            },
+            {
+              "dia": "SEX",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Optativa humanística"
+    },
+    {
+      "codigo": "CHF510",
+      "nome": "História E Filosofia Da Ciência",
+      "tipo": "optativa_humanistica",
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "T01",
+          "professores": [
+            "Julio Celso Ribeiro De Vasconcelos"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "15:30",
+              "fim": "18:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Optativa humanística"
+    },
+    {
+      "codigo": "CIS107",
+      "nome": "Fundamentos Direito Publico E Privado",
+      "tipo": "optativa_humanistica",
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "T02",
+          "professores": [
+            "Odejane Lima Franco"
+          ],
+          "horarios": [
+            {
+              "dia": "SEG",
+              "inicio": "16:30",
+              "fim": "18:30",
+              "local": null
+            },
+            {
+              "dia": "QUA",
+              "inicio": "16:30",
+              "fim": "18:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Optativa humanística"
+    },
+    {
+      "codigo": "CIS186",
+      "nome": "Planejamento E Orçamento Público",
+      "tipo": "optativa_complementar",
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "TP02",
+          "professores": [
+            "Célia Oliveira De Jesus Sacramento"
+          ],
+          "horarios": [
+            {
+              "dia": "SEG",
+              "inicio": "16:30",
+              "fim": "18:30",
+              "local": "PAT39 / UEFS"
+            },
+            {
+              "dia": "QUA",
+              "inicio": "19:00",
+              "fim": "21:00",
+              "local": "PAT39 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Optativa complementar"
+    },
+    {
+      "codigo": "CIS199",
+      "nome": "Projetos Econômicos E Financeiros",
+      "tipo": "optativa_complementar",
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "TP02",
+          "professores": [
+            "Felipe Mascarenhas Couto"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "19:00",
+              "fim": "21:00",
+              "local": "PAT31 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Optativa complementar"
+    },
+    {
+      "codigo": "CIS248",
+      "nome": "Mercado De Capitais - A",
+      "tipo": "optativa_complementar",
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "T02",
+          "professores": [
+            "Ana Lucia Carvalho Santos",
+            "Leandro Batista Duarte"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "21:00",
+              "fim": "23:00",
+              "local": "PAT31 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Optativa complementar"
+    },
+    {
+      "codigo": "CIS301",
+      "nome": "Introdução À Administração",
+      "tipo": "optativa_complementar",
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "T02",
+          "professores": [
+            "Ana Barreiros De Carvalho"
+          ],
+          "horarios": [
+            {
+              "dia": "SEX",
+              "inicio": "21:00",
+              "fim": "23:00",
+              "local": "PAT20 / UEFS"
+            },
+            {
+              "dia": "SAB",
+              "inicio": "07:30",
+              "fim": "09:30",
+              "local": "PAT20 / UEFS"
+            }
+          ]
+        },
+        {
+          "numero": "T03",
+          "professores": [
+            "Andressa De Sousa Santos Ferreira"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "19:00",
+              "fim": "21:00",
+              "local": "PAT34 / UEFS"
+            },
+            {
+              "dia": "QUA",
+              "inicio": "21:00",
+              "fim": "23:00",
+              "local": "PAT34 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Optativa complementar"
+    },
+    {
+      "codigo": "CIS381",
+      "nome": "Contabilidade Geral I",
+      "tipo": "optativa_complementar",
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "02",
+          "professores": [
+            "João Evangelista Dos Santos Filho"
+          ],
+          "horarios": [
+            {
+              "dia": "SEX",
+              "inicio": "19:00",
+              "fim": "21:00",
+              "local": "PAT32 / UEFS"
+            },
+            {
+              "dia": "SAB",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": "PAT32 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Optativa complementar"
+    },
+    {
+      "codigo": "CIS382",
+      "nome": "Introdução À Macroeconomia",
+      "tipo": "optativa_complementar",
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "T01",
+          "professores": [
+            "Luiz Carlos Ribeiro Santos"
+          ],
+          "horarios": [
+            {
+              "dia": "SEG",
+              "inicio": "19:00",
+              "fim": "21:00",
+              "local": "PAT10 / UEFS"
+            },
+            {
+              "dia": "QUA",
+              "inicio": "21:00",
+              "fim": "23:00",
+              "local": "PAT10 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Optativa complementar"
+    },
+    {
+      "codigo": "CIS385",
+      "nome": "Introdução À Microeconomia",
+      "tipo": "optativa_complementar",
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "T01",
+          "professores": [
+            "Fernanda Oliveira Caires E Caires"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "19:00",
+              "fim": "21:00",
+              "local": "PAT19 / UEFS"
+            },
+            {
+              "dia": "QUI",
+              "inicio": "21:00",
+              "fim": "23:00",
+              "local": "PAT19 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Optativa complementar"
+    },
+    {
+      "codigo": "CIS392",
+      "nome": "Direito Trabalhista E Previdenciário",
+      "tipo": "optativa_humanistica",
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "T01",
+          "professores": [],
+          "horarios": [
+            {
+              "dia": "SEX",
+              "inicio": "19:00",
+              "fim": "21:00",
+              "local": "PAT17 / UEFS"
+            },
+            {
+              "dia": "SAB",
+              "inicio": "07:30",
+              "fim": "09:30",
+              "local": "PAT17 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Optativa humanística"
+    },
+    {
+      "codigo": "CIS425",
+      "nome": "Princípio De Contab. Geral",
+      "tipo": "optativa_complementar",
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Dilson Cerqueira Da Silva"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "21:00",
+              "fim": "23:00",
+              "local": "PAT28 / UEFS"
+            },
+            {
+              "dia": "SEX",
+              "inicio": "19:00",
+              "fim": "21:00",
+              "local": "PAT25 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Optativa complementar"
+    },
+    {
+      "codigo": "CIS457",
+      "nome": "Princípios De Administração",
+      "tipo": "optativa_complementar",
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "T01",
+          "professores": [
+            "Adrielly Ferreira Morais"
+          ],
+          "horarios": [
+            {
+              "dia": "SEG",
+              "inicio": "16:30",
+              "fim": "18:30",
+              "local": null
+            },
+            {
+              "dia": "TER",
+              "inicio": "16:30",
+              "fim": "18:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Optativa complementar"
+    },
+    {
+      "codigo": "EDU113",
+      "nome": "Educação Especial E Políticas Educacionais Inclusivas",
+      "tipo": "optativa_humanistica",
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "TP05",
+          "professores": [
+            "Aline Pereira Da Silva Matos"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "13:30",
+              "fim": "17:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Optativa humanística"
+    },
+    {
+      "codigo": "EDU311",
+      "nome": "Relações Étnico-Raciais Na Escola",
+      "tipo": "optativa_humanistica",
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "TP03",
+          "professores": [
+            "Eduardo Oliveira Miranda"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "17:30",
+              "fim": "18:30",
+              "local": null
+            },
+            {
+              "dia": "SEX",
+              "inicio": "15:30",
+              "fim": "18:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Optativa humanística"
+    },
+    {
+      "codigo": "EXA085",
+      "nome": "Inteligência Artificial Generativa Na Educação",
+      "tipo": null,
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Gabriela Ribeiro Peixoto Rezende Pinto"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "07:30",
+              "fim": "09:30",
+              "local": null
+            },
+            {
+              "dia": "QUI",
+              "inicio": "07:30",
+              "fim": "09:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "nao_identificada_na_resolucao",
+      "categoria_exibicao": "Não classificada na resolução"
+    },
+    {
+      "codigo": "EXA417",
+      "nome": "Química Geral E De Materiais",
+      "tipo": "disciplina_obrigatoria",
+      "semestre_obrigatorio": 3,
+      "turmas": [
+        {
+          "numero": "T0P01",
+          "professores": [
+            "Humberto Talma Da Cunha",
+            "Humberto Talma Da Cunha"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "11:30",
+              "fim": "12:30",
+              "local": null
+            },
+            {
+              "dia": "QUA",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": "PAT59 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 3º semestre"
+    },
+    {
+      "codigo": "EXA543",
+      "nome": "Introdução Ao Cálculo",
+      "tipo": "disciplina_obrigatoria",
+      "semestre_obrigatorio": 1,
+      "turmas": [
+        {
+          "numero": "T01",
+          "professores": [
+            "Jany Santos Souza Goulart"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": "PA212 / UEFS"
+            },
+            {
+              "dia": "SEX",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": "PAT50 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 1º semestre"
+    },
+    {
+      "codigo": "EXA544",
+      "nome": "Linguagens Formais E Compiladores",
+      "tipo": "modulo_obrigatorio",
+      "semestre_obrigatorio": 9,
+      "turmas": [
+        {
+          "numero": "T01",
+          "professores": [
+            "Matheus Giovanni Pires"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": null
+            },
+            {
+              "dia": "QUI",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 9º semestre"
+    },
+    {
+      "codigo": "EXA545",
+      "nome": "Teoria Da Computação",
+      "tipo": "optativa_profissionalizante",
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Pâmela Michele Cândida Cortez"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": null
+            },
+            {
+              "dia": "SEX",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Optativa profissionalizante"
+    },
+    {
+      "codigo": "EXA612",
+      "nome": "Estágio",
+      "tipo": "estagio",
+      "semestre_obrigatorio": 9,
+      "turmas": [
+        {
+          "numero": "E01",
+          "professores": [
+            "Larissa Rocha Soares Bastos"
+          ],
+          "horarios": [
+            {
+              "dia": "SAB",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 9º semestre"
+    },
+    {
+      "codigo": "EXA613",
+      "nome": "Mi Engenharia De Software",
+      "tipo": "modulo_integrador",
+      "semestre_obrigatorio": 6,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Larissa Rocha Soares Bastos"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": null
+            },
+            {
+              "dia": "SEX",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": null
+            }
+          ]
+        },
+        {
+          "numero": "TP02",
+          "professores": [
+            "Bianca Leite Santana",
+            "0 0"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": null
+            },
+            {
+              "dia": "SEX",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": null
+            }
+          ]
+        },
+        {
+          "numero": "TP03",
+          "professores": [
+            "Victor Travassos Sarinho"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": null
+            },
+            {
+              "dia": "SEX",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": null
+            }
+          ]
+        },
+        {
+          "numero": "TP04",
+          "professores": [
+            "Julio César Andrade Silva"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": null
+            },
+            {
+              "dia": "SEX",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 6º semestre"
+    },
+    {
+      "codigo": "EXA614",
+      "nome": "Tópicos De Formação Humanística",
+      "tipo": "modulo_obrigatorio",
+      "semestre_obrigatorio": 1,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "David Moises Barreto Dos Santos"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": "PAT45 / UEFS"
+            },
+            {
+              "dia": "QUI",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": "PAT46 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 1º semestre"
+    },
+    {
+      "codigo": "EXA615",
+      "nome": "Ética Em Computação",
+      "tipo": "modulo_obrigatorio",
+      "semestre_obrigatorio": 8,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Gabriela Ribeiro Peixoto Rezende Pinto",
+            "Gabriela Ribeiro Peixoto Rezende Pinto"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": null
+            },
+            {
+              "dia": "QUI",
+              "inicio": "09:30",
+              "fim": "10:30",
+              "local": null
+            },
+            {
+              "dia": "QUI",
+              "inicio": "10:30",
+              "fim": "11:30",
+              "local": "PAT40 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 8º semestre"
+    },
+    {
+      "codigo": "EXA616",
+      "nome": "Empreendedorismo I",
+      "tipo": "projeto_empreendedor",
+      "semestre_obrigatorio": 6,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Angelo Conrado Loula"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": null
+            },
+            {
+              "dia": "QUI",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 6º semestre"
+    },
+    {
+      "codigo": "EXA619",
+      "nome": "Informática Na Educação",
+      "tipo": "optativa_profissionalizante",
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Claudia Pinto Pereira Sena"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": null
+            },
+            {
+              "dia": "QUI",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Optativa profissionalizante"
+    },
+    {
+      "codigo": "EXA620",
+      "nome": "Jogos Digitais",
+      "tipo": "optativa_profissionalizante",
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Victor Travassos Sarinho"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": null
+            },
+            {
+              "dia": "QUI",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Optativa profissionalizante"
+    },
+    {
+      "codigo": "EXA622",
+      "nome": "Extensão Em Computação I",
+      "tipo": "extensao",
+      "semestre_obrigatorio": 9,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "João Batista Da Rocha Junior",
+            "Tiago Amador Coelho"
+          ],
+          "horarios": [
+            {
+              "dia": "SEG",
+              "inicio": "09:30",
+              "fim": "12:30",
+              "local": null
+            },
+            {
+              "dia": "QUA",
+              "inicio": "09:30",
+              "fim": "12:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 9º semestre"
+    },
+    {
+      "codigo": "EXA623",
+      "nome": "Finanças Computacionais",
+      "tipo": "optativa_profissionalizante",
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Carlos Alberto Rodrigues"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": null
+            },
+            {
+              "dia": "QUI",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Optativa profissionalizante"
+    },
+    {
+      "codigo": "EXA702",
+      "nome": "Álgebra Vetorial E Geometria Analítica",
+      "tipo": "disciplina_obrigatoria",
+      "semestre_obrigatorio": 3,
+      "turmas": [
+        {
+          "numero": "T03",
+          "professores": [
+            "Moacyr Rodrigues De Miranda Júnior"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "07:30",
+              "fim": "09:30",
+              "local": "PAT49 / UEFS"
+            },
+            {
+              "dia": "SEX",
+              "inicio": "07:30",
+              "fim": "09:30",
+              "local": "PAT50 / UEFS"
+            }
+          ]
+        },
+        {
+          "numero": "T04",
+          "professores": [
+            "Jucineide Silva Santos"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "PAT54 / UEFS"
+            },
+            {
+              "dia": "SEX",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "PAT54 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 3º semestre"
+    },
+    {
+      "codigo": "EXA703",
+      "nome": "Álgebra Linear I E",
+      "tipo": "disciplina_obrigatoria",
+      "semestre_obrigatorio": 5,
+      "turmas": [
+        {
+          "numero": "T03",
+          "professores": [
+            "Ademakson Souza Araújo"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": null
+            },
+            {
+              "dia": "QUI",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 5º semestre"
+    },
+    {
+      "codigo": "EXA704",
+      "nome": "Cálculo Diferencial E Integral I E",
+      "tipo": "disciplina_obrigatoria",
+      "semestre_obrigatorio": 2,
+      "turmas": [
+        {
+          "numero": "T03",
+          "professores": [
+            "Rogério Gomes Matias"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": null
+            },
+            {
+              "dia": "SEX",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": null
+            }
+          ]
+        },
+        {
+          "numero": "T05",
+          "professores": [
+            "Rogério Gomes Matias"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "07:30",
+              "fim": "09:30",
+              "local": "PAT59 / UEFS"
+            },
+            {
+              "dia": "SEX",
+              "inicio": "07:30",
+              "fim": "09:30",
+              "local": "PAT59 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 2º semestre"
+    },
+    {
+      "codigo": "EXA705",
+      "nome": "Cálculo Diferencial E Integral Ii E",
+      "tipo": "modulo_obrigatorio",
+      "semestre_obrigatorio": 3,
+      "turmas": [
+        {
+          "numero": "T03",
+          "professores": [
+            "Victor Borges Carneiro"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "10:30",
+              "fim": "12:30",
+              "local": null
+            },
+            {
+              "dia": "QUI",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": null
+            }
+          ]
+        },
+        {
+          "numero": "T04",
+          "professores": [
+            "Cristiano Henrique De Oliveira Mascarenhas"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "PAT57 / UEFS"
+            },
+            {
+              "dia": "QUI",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": "PAT58 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 3º semestre"
+    },
+    {
+      "codigo": "EXA706",
+      "nome": "Equações Diferenciais I-E",
+      "tipo": "modulo_obrigatorio",
+      "semestre_obrigatorio": 4,
+      "turmas": [
+        {
+          "numero": "T03",
+          "professores": [
+            "Darlan Ferreira De Oliveira"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": null
+            },
+            {
+              "dia": "SEX",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 4º semestre"
+    },
+    {
+      "codigo": "EXA709",
+      "nome": "Probabilidade E Estatística I E",
+      "tipo": "disciplina_obrigatoria",
+      "semestre_obrigatorio": 5,
+      "turmas": [
+        {
+          "numero": "T03",
+          "professores": [
+            "Reinalda Souza Oliveira"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "07:30",
+              "fim": "09:30",
+              "local": null
+            },
+            {
+              "dia": "QUI",
+              "inicio": "07:30",
+              "fim": "09:30",
+              "local": null
+            }
+          ]
+        },
+        {
+          "numero": "T04",
+          "professores": [
+            "Reinalda Souza Oliveira"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": null
+            },
+            {
+              "dia": "QUI",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 5º semestre"
+    },
+    {
+      "codigo": "EXA801",
+      "nome": "Algoritmos E Programação I",
+      "tipo": "modulo_integrador",
+      "semestre_obrigatorio": 1,
+      "turmas": [
+        {
+          "numero": "T01",
+          "professores": [
+            "Claudia Pinto Pereira Sena"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "PA010 / UEFS"
+            },
+            {
+              "dia": "QUI",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "PA101 / UEFS"
+            }
+          ]
+        },
+        {
+          "numero": "T02",
+          "professores": [
+            "Michele Fúlvia Angelo"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "PAT52 / UEFS"
+            },
+            {
+              "dia": "QUI",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "PAT52 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 1º semestre"
+    },
+    {
+      "codigo": "EXA802",
+      "nome": "Lógica Para Computação",
+      "tipo": "optativa_profissionalizante",
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Thiago D'Martin Maia"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": null
+            },
+            {
+              "dia": "SEX",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Optativa profissionalizante"
+    },
+    {
+      "codigo": "EXA805",
+      "nome": "Algoritmos E Programação Ii",
+      "tipo": "modulo_integrador",
+      "semestre_obrigatorio": 3,
+      "turmas": [
+        {
+          "numero": "T01",
+          "professores": [
+            "Bianca Leite Santana"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "PAT49 / UEFS"
+            },
+            {
+              "dia": "QUI",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "PAT59 / UEFS"
+            }
+          ]
+        },
+        {
+          "numero": "T02",
+          "professores": [
+            "Roberto Almeida Bittencourt"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": null
+            },
+            {
+              "dia": "QUI",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 3º semestre"
+    },
+    {
+      "codigo": "EXA806",
+      "nome": "Estruturas De Dados",
+      "tipo": "modulo_integrador",
+      "semestre_obrigatorio": 2,
+      "turmas": [
+        {
+          "numero": "T01",
+          "professores": [
+            "Pâmela Michele Cândida Cortez"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": null
+            },
+            {
+              "dia": "QUI",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": "PA011 / UEFS"
+            }
+          ]
+        },
+        {
+          "numero": "T02",
+          "professores": [
+            "Ana Lucia Lima Marreiros Maia"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": null
+            },
+            {
+              "dia": "QUI",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 2º semestre"
+    },
+    {
+      "codigo": "EXA807",
+      "nome": "Estruturas Discretas",
+      "tipo": "modulo_integrador",
+      "semestre_obrigatorio": 3,
+      "turmas": [
+        {
+          "numero": "T01",
+          "professores": [
+            "Thiago Pires Santana"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "07:30",
+              "fim": "09:30",
+              "local": null
+            },
+            {
+              "dia": "QUI",
+              "inicio": "07:30",
+              "fim": "09:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 3º semestre"
+    },
+    {
+      "codigo": "EXA809",
+      "nome": "Engenharia De Software",
+      "tipo": "modulo_integrador",
+      "semestre_obrigatorio": 6,
+      "turmas": [
+        {
+          "numero": "T01",
+          "professores": [
+            "Victor Travassos Sarinho"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "PAT56 / UEFS"
+            },
+            {
+              "dia": "SEX",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "PAT55 / UEFS"
+            }
+          ]
+        },
+        {
+          "numero": "T02",
+          "professores": [
+            "Larissa Rocha Soares Bastos"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": null
+            },
+            {
+              "dia": "SEX",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 6º semestre"
+    },
+    {
+      "codigo": "EXA810",
+      "nome": "Bancos De Dados",
+      "tipo": "modulo_integrador",
+      "semestre_obrigatorio": 6,
+      "turmas": [
+        {
+          "numero": "T01",
+          "professores": [
+            "Rodrigo Tripodi Calumby"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 6º semestre"
+    },
+    {
+      "codigo": "EXA813",
+      "nome": "Análise E Projeto De Algoritmos",
+      "tipo": "modulo_obrigatorio",
+      "semestre_obrigatorio": 9,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Thiago D'Martin Maia"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": null
+            },
+            {
+              "dia": "QUI",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 9º semestre"
+    },
+    {
+      "codigo": "EXA828",
+      "nome": "Estágio",
+      "tipo": null,
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "E01",
+          "professores": [
+            "Larissa Rocha Soares Bastos"
+          ],
+          "horarios": [
+            {
+              "dia": "SAB",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "nao_identificada_na_resolucao",
+      "categoria_exibicao": "Não classificada na resolução"
+    },
+    {
+      "codigo": "EXA854",
+      "nome": "Mi - Algoritmos",
+      "tipo": "modulo_integrador",
+      "semestre_obrigatorio": 1,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Julio César Andrade Silva"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "PAT53 / UEFS"
+            }
+          ]
+        },
+        {
+          "numero": "TP02",
+          "professores": [
+            "Michele Fúlvia Angelo"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "PAT59 / UEFS"
+            }
+          ]
+        },
+        {
+          "numero": "TP03",
+          "professores": [
+            "Bianca Leite Santana"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "PAT50 / UEFS"
+            }
+          ]
+        },
+        {
+          "numero": "TP04",
+          "professores": [
+            "Claudia Pinto Pereira Sena Tiago Amador Coelho"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "PAT49 / UEFS"
+            }
+          ]
+        },
+        {
+          "numero": "TP05",
+          "professores": [
+            "Thiago Antonio Melo Euzébio"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "PAT47 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 1º semestre"
+    },
+    {
+      "codigo": "EXA861",
+      "nome": "Introdução À Engenharia De Computação",
+      "tipo": "modulo_obrigatorio",
+      "semestre_obrigatorio": 1,
+      "turmas": [
+        {
+          "numero": "T01",
+          "professores": [
+            "Michele Fúlvia Angelo"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": "PAT59 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 1º semestre"
+    },
+    {
+      "codigo": "EXA863",
+      "nome": "Mi - Programação",
+      "tipo": "modulo_integrador",
+      "semestre_obrigatorio": 3,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Bianca Leite Santana"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": null
+            }
+          ]
+        },
+        {
+          "numero": "TP02",
+          "professores": [
+            "Carlos Alberto Rodrigues"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": null
+            }
+          ]
+        },
+        {
+          "numero": "TP03",
+          "professores": [
+            "Matheus Giovanni Pires"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": null
+            }
+          ]
+        },
+        {
+          "numero": "TP04",
+          "professores": [
+            "Roberto Almeida Bittencourt"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": null
+            }
+          ]
+        },
+        {
+          "numero": "TP05",
+          "professores": [
+            "David Moises Barreto Dos Santos"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 3º semestre"
+    },
+    {
+      "codigo": "EXA871",
+      "nome": "Arquitetura E Design De Software",
+      "tipo": "optativa_profissionalizante",
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "José Amâncio Macedo Santos"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": null
+            },
+            {
+              "dia": "QUI",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Optativa profissionalizante"
+    },
+    {
+      "codigo": "FIS155",
+      "nome": "Física I",
+      "tipo": null,
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "T04",
+          "professores": [
+            "Fredson Braz Matos Dos Santos"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "07:30",
+              "fim": "09:30",
+              "local": null
+            },
+            {
+              "dia": "QUI",
+              "inicio": "07:30",
+              "fim": "09:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "nao_identificada_na_resolucao",
+      "categoria_exibicao": "Não classificada na resolução"
+    },
+    {
+      "codigo": "FIS156",
+      "nome": "Física Experimental I",
+      "tipo": null,
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "P04",
+          "professores": [
+            "Isadora Tairinne De Sena Bastos"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "10:30",
+              "fim": "12:30",
+              "local": "MP43 / UEFS"
+            }
+          ]
+        },
+        {
+          "numero": "P05",
+          "professores": [
+            "Eduardo Brescansin De Amores"
+          ],
+          "horarios": [
+            {
+              "dia": "QUI",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": "MP43 / UEFS"
+            }
+          ]
+        },
+        {
+          "numero": "P06",
+          "professores": [
+            "Carlos Eduardo Magalhães Batista"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "07:30",
+              "fim": "09:30",
+              "local": "MP43 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "nao_identificada_na_resolucao",
+      "categoria_exibicao": "Não classificada na resolução"
+    },
+    {
+      "codigo": "FIS160",
+      "nome": "Física Iii",
+      "tipo": null,
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "T02",
+          "professores": [
+            "Ernando Silva Ferreira"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "07:30",
+              "fim": "09:30",
+              "local": null
+            },
+            {
+              "dia": "SEX",
+              "inicio": "07:30",
+              "fim": "09:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "nao_identificada_na_resolucao",
+      "categoria_exibicao": "Não classificada na resolução"
+    },
+    {
+      "codigo": "LET808",
+      "nome": "Libras: Noções Básicas",
+      "tipo": "optativa_humanistica",
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "T09",
+          "professores": [
+            "Daniela Betânia Dos Santos Ferreira"
+          ],
+          "horarios": [
+            {
+              "dia": "QUI",
+              "inicio": "19:00",
+              "fim": "22:00",
+              "local": "PAT75 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Optativa humanística"
+    },
+    {
+      "codigo": "TEC167",
+      "nome": "Ciências Do Ambiente - E",
+      "tipo": "optativa_complementar",
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Zanna Maria Rodrigues De Matos"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "09:30",
+              "fim": "12:30",
+              "local": "PAT30 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Optativa complementar"
+    },
+    {
+      "codigo": "TEC217",
+      "nome": "Métodos Computacionais",
+      "tipo": "modulo_obrigatorio",
+      "semestre_obrigatorio": 6,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Marcos De Araújo Paz"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": "38 / NUCAE"
+            },
+            {
+              "dia": "QUI",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": "PAT33 / UEFS"
+            }
+          ]
+        },
+        {
+          "numero": "TP02",
+          "professores": [
+            "Marcos De Araújo Paz"
+          ],
+          "horarios": [
+            {
+              "dia": "SEG",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": "38 / NUCAE"
+            },
+            {
+              "dia": "QUA",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": "PAT33 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 6º semestre"
+    },
+    {
+      "codigo": "TEC218",
+      "nome": "Circuitos Elétricos",
+      "tipo": "modulo_obrigatorio",
+      "semestre_obrigatorio": 6,
+      "turmas": [
+        {
+          "numero": "T01",
+          "professores": [
+            "Delmar Broglio Carvalho",
+            "0 0"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "MT38 / UEFS"
+            },
+            {
+              "dia": "QUI",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "NCA39 / UEFS"
+            }
+          ]
+        },
+        {
+          "numero": "T02",
+          "professores": [
+            "Márcia Lissandra Machado Prado"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "I-2 / LABOTEC 3"
+            },
+            {
+              "dia": "QUI",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "I-2 / LABOTEC 3"
+            }
+          ]
+        },
+        {
+          "numero": "T03",
+          "professores": [
+            "Marcos De Araújo Paz"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "38 / NUCAE"
+            },
+            {
+              "dia": "QUI",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "MP33A / UEFS"
+            }
+          ]
+        },
+        {
+          "numero": "T04",
+          "professores": [
+            "João Bosco Gertrudes",
+            "Márcia Lissandra Machado Prado"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": "MT38A / UEFS"
+            },
+            {
+              "dia": "QUI",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": "MT38A / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 6º semestre"
+    },
+    {
+      "codigo": "TEC219",
+      "nome": "Eletrônica Geral",
+      "tipo": "modulo_obrigatorio",
+      "semestre_obrigatorio": 7,
+      "turmas": [
+        {
+          "numero": "T01",
+          "professores": [
+            "Márcia Lissandra Machado Prado"
+          ],
+          "horarios": [
+            {
+              "dia": "SEG",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "PAT38 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 7º semestre"
+    },
+    {
+      "codigo": "TEC220",
+      "nome": "Sistemas Robóticos Autônomos",
+      "tipo": "optativa_profissionalizante",
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Armando Sanca Sanca"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "MT38B / UEFS"
+            },
+            {
+              "dia": "QUI",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "MT38B / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Optativa profissionalizante"
+    },
+    {
+      "codigo": "TEC221",
+      "nome": "Tópicos De Formação Complementar",
+      "tipo": "modulo_obrigatorio",
+      "semestre_obrigatorio": 2,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Rosaria Da Paixão Trindade"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": "PAT30 / UEFS"
+            },
+            {
+              "dia": "QUI",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": "PAT30 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 2º semestre"
+    },
+    {
+      "codigo": "TEC222",
+      "nome": "Trabalho De Conclusão De Curso Ii",
+      "tipo": "tcc",
+      "semestre_obrigatorio": 9,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Márcia Lissandra Machado Prado"
+          ],
+          "horarios": [
+            {
+              "dia": "SAB",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": "PAT39 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 9º semestre"
+    },
+    {
+      "codigo": "TEC224",
+      "nome": "Extensão Em Computação Ii",
+      "tipo": "extensao",
+      "semestre_obrigatorio": 9,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Rosaria Da Paixão Trindade"
+          ],
+          "horarios": [
+            {
+              "dia": "SEG",
+              "inicio": "13:30",
+              "fim": "16:30",
+              "local": "PAT32 / UEFS"
+            },
+            {
+              "dia": "QUA",
+              "inicio": "13:30",
+              "fim": "16:30",
+              "local": "PAT32 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 9º semestre"
+    },
+    {
+      "codigo": "TEC401",
+      "nome": "Circuitos Digitais",
+      "tipo": "modulo_integrador",
+      "semestre_obrigatorio": 2,
+      "turmas": [
+        {
+          "numero": "T01",
+          "professores": [
+            "Thiago Cerqueira De Jesus"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": "PAT38 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 2º semestre"
+    },
+    {
+      "codigo": "TEC402",
+      "nome": "Arquitetura De Computadores",
+      "tipo": "modulo_integrador",
+      "semestre_obrigatorio": 4,
+      "turmas": [
+        {
+          "numero": "T01",
+          "professores": [
+            "Angelo Amâncio Duarte"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "07:30",
+              "fim": "09:30",
+              "local": "PAT30 / UEFS"
+            },
+            {
+              "dia": "SEX",
+              "inicio": "07:30",
+              "fim": "09:30",
+              "local": "PAT30 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 4º semestre"
+    },
+    {
+      "codigo": "TEC408",
+      "nome": "Sistemas Operacionais",
+      "tipo": "modulo_obrigatorio",
+      "semestre_obrigatorio": 4,
+      "turmas": [
+        {
+          "numero": "T01",
+          "professores": [
+            "Elinaldo Santos De Góes Júnior"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "PAT32 / UEFS"
+            },
+            {
+              "dia": "QUI",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "PAT32 / UEFS"
+            }
+          ]
+        },
+        {
+          "numero": "T02",
+          "professores": [
+            "Ana Claudia Fiorin Pianesso"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "PAT33 / UEFS"
+            },
+            {
+              "dia": "QUI",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "PAT33 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 4º semestre"
+    },
+    {
+      "codigo": "TEC409",
+      "nome": "Redes De Computadores",
+      "tipo": "modulo_obrigatorio",
+      "semestre_obrigatorio": 5,
+      "turmas": [
+        {
+          "numero": "T01",
+          "professores": [
+            "Antônio Augusto Teixeira Ribeiro Coutinho"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "PAT34 / UEFS"
+            },
+            {
+              "dia": "QUI",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "PAT34 / UEFS"
+            }
+          ]
+        },
+        {
+          "numero": "T02",
+          "professores": [
+            "Talita Rocha Pinheiro"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "PAT38 / UEFS"
+            },
+            {
+              "dia": "QUI",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "PAT31 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 5º semestre"
+    },
+    {
+      "codigo": "TEC412",
+      "nome": "Sinais E Sistemas",
+      "tipo": "modulo_obrigatorio",
+      "semestre_obrigatorio": 7,
+      "turmas": [
+        {
+          "numero": "T01",
+          "professores": [
+            "Edgar Silva Junior"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": "PAT38 / UEFS"
+            },
+            {
+              "dia": "QUI",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": "PAT38 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 7º semestre"
+    },
+    {
+      "codigo": "TEC430",
+      "nome": "Processamento Digital De Sinais",
+      "tipo": "modulo_obrigatorio",
+      "semestre_obrigatorio": 8,
+      "turmas": [
+        {
+          "numero": "T01",
+          "professores": [
+            "Edgar Silva Junior"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": "PAT31 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 8º semestre"
+    },
+    {
+      "codigo": "TEC434",
+      "nome": "Computação Visual",
+      "tipo": "optativa_profissionalizante",
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Fernando Flores Santos Ribeiro"
+          ],
+          "horarios": [
+            {
+              "dia": "SEG",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": "PAT31 / UEFS"
+            },
+            {
+              "dia": "SEX",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": "PAT31 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Optativa profissionalizante"
+    },
+    {
+      "codigo": "TEC451",
+      "nome": "Segurança De Computadores E Criptografia",
+      "tipo": "optativa_profissionalizante",
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Talita Rocha Pinheiro"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": "PAT31 / UEFS"
+            },
+            {
+              "dia": "QUI",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": "PAT33 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Optativa profissionalizante"
+    },
+    {
+      "codigo": "TEC497",
+      "nome": "Introdução A Eletrônica",
+      "tipo": "modulo_integrador",
+      "semestre_obrigatorio": 1,
+      "turmas": [
+        {
+          "numero": "P01",
+          "professores": [
+            "Delmar Broglio Carvalho"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": "LEI31 / UEFS"
+            }
+          ]
+        },
+        {
+          "numero": "P02",
+          "professores": [
+            "Delmar Broglio Carvalho"
+          ],
+          "horarios": [
+            {
+              "dia": "QUI",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": "LEI31 / UEFS"
+            }
+          ]
+        },
+        {
+          "numero": "P03",
+          "professores": [
+            "Delmar Broglio Carvalho"
+          ],
+          "horarios": [
+            {
+              "dia": "SEG",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "LEI31 / UEFS"
+            }
+          ]
+        },
+        {
+          "numero": "P04",
+          "professores": [
+            "Delmar Broglio Carvalho",
+            "João Bosco Gertrudes"
+          ],
+          "horarios": [
+            {
+              "dia": "SEX",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": null
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 1º semestre"
+    },
+    {
+      "codigo": "TEC498",
+      "nome": "Mi - Projeto De Circuitos Digitais",
+      "tipo": "modulo_integrador",
+      "semestre_obrigatorio": 2,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Thiago Cerqueira De Jesus",
+            "Wild Freitas Da Silva Santos"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": "LED32 / UEFS"
+            },
+            {
+              "dia": "SEX",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": "MT38A / UEFS"
+            },
+            {
+              "dia": "QUA",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "LED32 / UEFS"
+            },
+            {
+              "dia": "SEX",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "MT38A / UEFS"
+            }
+          ]
+        },
+        {
+          "numero": "TP03",
+          "professores": [
+            "Fernando Flores Santos Ribeiro"
+          ],
+          "horarios": [
+            {
+              "dia": "SEG",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "LED32 / UEFS"
+            },
+            {
+              "dia": "SEX",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "MT38B / UEFS"
+            }
+          ]
+        },
+        {
+          "numero": "TP04",
+          "professores": [
+            "Wild Freitas Da Silva Santos"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": "LEI31 / UEFS"
+            },
+            {
+              "dia": "SEX",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": "MT38B / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 2º semestre"
+    },
+    {
+      "codigo": "TEC499",
+      "nome": "Mi - Sistemas Digitais",
+      "tipo": "modulo_integrador",
+      "semestre_obrigatorio": 4,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Thiago Cerqueira De Jesus"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "MT38A / UEFS"
+            },
+            {
+              "dia": "SEX",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "LED32 / UEFS"
+            }
+          ]
+        },
+        {
+          "numero": "TP02",
+          "professores": [
+            "Angelo Amâncio Duarte"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "MT38B / UEFS"
+            },
+            {
+              "dia": "SEX",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "LEI31 / UEFS"
+            }
+          ]
+        },
+        {
+          "numero": "TP03",
+          "professores": [
+            "Wild Freitas Da Silva Santos"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": "LED32 / UEFS"
+            },
+            {
+              "dia": "SEX",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": "MT38A / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 4º semestre"
+    },
+    {
+      "codigo": "TEC501",
+      "nome": "Eletrônica Para Processamento Digital De Sinais",
+      "tipo": "modulo_obrigatorio",
+      "semestre_obrigatorio": 8,
+      "turmas": [
+        {
+          "numero": "T01",
+          "professores": [
+            "Armando Sanca Sanca"
+          ],
+          "horarios": [
+            {
+              "dia": "SEX",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": "PAT38 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 8º semestre"
+    },
+    {
+      "codigo": "TEC502",
+      "nome": "Mi - Concorrência E Conectividade",
+      "tipo": "modulo_integrador",
+      "semestre_obrigatorio": 5,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Antônio Augusto Teixeira Ribeiro Coutinho"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": "I-3 / LABOTEC 3"
+            },
+            {
+              "dia": "QUI",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": "I-3 / LABOTEC 3"
+            }
+          ]
+        },
+        {
+          "numero": "TP02",
+          "professores": [
+            "Elinaldo Santos De Góes Júnior"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": "MP33A / UEFS"
+            },
+            {
+              "dia": "QUI",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": "MP33A / UEFS"
+            }
+          ]
+        },
+        {
+          "numero": "TP03",
+          "professores": [
+            "Elisângela Oliveira Carneiro",
+            "0 0"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": "MT38A / UEFS"
+            },
+            {
+              "dia": "QUI",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": "MT38A / UEFS"
+            }
+          ]
+        },
+        {
+          "numero": "TP04",
+          "professores": [
+            "Talita Rocha Pinheiro"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": "MT38B / UEFS"
+            },
+            {
+              "dia": "QUI",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": "MT38B / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 5º semestre"
+    },
+    {
+      "codigo": "TEC503",
+      "nome": "Produção De Textos Técnicos E Acadêmicos",
+      "tipo": "modulo_integrador",
+      "semestre_obrigatorio": 1,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Elisângela Oliveira Carneiro"
+          ],
+          "horarios": [
+            {
+              "dia": "TER",
+              "inicio": "07:30",
+              "fim": "09:30",
+              "local": "38 / NUCAE"
+            }
+          ]
+        },
+        {
+          "numero": "TP02",
+          "professores": [
+            "Ana Claudia Fiorin Pianesso"
+          ],
+          "horarios": [
+            {
+              "dia": "SEX",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": "NCA39 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 1º semestre"
+    },
+    {
+      "codigo": "TEC506",
+      "nome": "Mi - Projetos De Circuitos Eletrônicos",
+      "tipo": "modulo_integrador",
+      "semestre_obrigatorio": 7,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Delmar Broglio Carvalho"
+          ],
+          "horarios": [
+            {
+              "dia": "SEG",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": "MT38A / UEFS"
+            }
+          ]
+        },
+        {
+          "numero": "TP02",
+          "professores": [
+            "Márcia Lissandra Machado Prado"
+          ],
+          "horarios": [
+            {
+              "dia": "SEG",
+              "inicio": "15:30",
+              "fim": "17:30",
+              "local": "MT38B / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 7º semestre"
+    },
+    {
+      "codigo": "TEC507",
+      "nome": "Sistemas Distribuídos Avançados",
+      "tipo": "optativa_profissionalizante",
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Elisângela Oliveira Carneiro"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": "I-3 / LABOTEC 3"
+            },
+            {
+              "dia": "SEX",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": "I-3 / LABOTEC 3"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Optativa profissionalizante"
+    },
+    {
+      "codigo": "TEC508",
+      "nome": "Computação De Alto Desempenho",
+      "tipo": "optativa_profissionalizante",
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Angelo Amâncio Duarte"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": "LAD3 / UEFS"
+            },
+            {
+              "dia": "SEX",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": "LAD3 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Optativa profissionalizante"
+    },
+    {
+      "codigo": "TEC513",
+      "nome": "Mi - Processamento Digital De Sinais",
+      "tipo": "modulo_integrador",
+      "semestre_obrigatorio": 8,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Armando Sanca Sanca"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "I-1 / LABOTEC 3"
+            },
+            {
+              "dia": "SEX",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "I-1 / LABOTEC 3"
+            }
+          ]
+        },
+        {
+          "numero": "TP02",
+          "professores": [
+            "Edgar Silva Junior"
+          ],
+          "horarios": [
+            {
+              "dia": "QUA",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "MP33A / UEFS"
+            },
+            {
+              "dia": "SEX",
+              "inicio": "13:30",
+              "fim": "15:30",
+              "local": "LTEC5 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 8º semestre"
+    },
+    {
+      "codigo": "TEC517",
+      "nome": "Metodologia Da Pesquisa E Desenvolvimento Em Engenharia De Computação",
+      "tipo": "modulo_obrigatorio",
+      "semestre_obrigatorio": 8,
+      "turmas": [
+        {
+          "numero": "T01",
+          "professores": [
+            "Ana Claudia Fiorin Pianesso"
+          ],
+          "horarios": [
+            {
+              "dia": "QUI",
+              "inicio": "07:30",
+              "fim": "09:30",
+              "local": "PAT36 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 8º semestre"
+    },
+    {
+      "codigo": "TEC518",
+      "nome": "Trabalho De Conclusão De Curso I",
+      "tipo": "tcc",
+      "semestre_obrigatorio": 9,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Marcos De Araújo Paz"
+          ],
+          "horarios": [
+            {
+              "dia": "SAB",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": "PAT30 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "consta_na_resolucao",
+      "categoria_exibicao": "Obrigatória do 9º semestre"
+    },
+    {
+      "codigo": "TEC519",
+      "nome": "Trabalho De Conclusão De Curso Ii",
+      "tipo": null,
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Márcia Lissandra Machado Prado"
+          ],
+          "horarios": [
+            {
+              "dia": "SAB",
+              "inicio": "09:30",
+              "fim": "11:30",
+              "local": "PAT39 / UEFS"
+            }
+          ]
+        }
+      ],
+      "situacao_curricular": "nao_identificada_na_resolucao",
+      "categoria_exibicao": "Não classificada na resolução"
+    },
+    {
+      "codigo": "UCE008",
+      "nome": "Ensino De Programação Em Python Para Estudantes Do Ensino Médio De Escolas Públicas",
+      "tipo": null,
+      "semestre_obrigatorio": null,
+      "turmas": [
+        {
+          "numero": "TP01",
+          "professores": [
+            "Pâmela Michele Cândida Cortez",
+            "Ofertadas: Ocupadas: Ocupadas Curso: Inicial",
+            "¹",
+            "² ³"
+          ],
+          "horarios": []
+        }
+      ],
+      "situacao_curricular": "nao_identificada_na_resolucao",
+      "categoria_exibicao": "Não classificada na resolução"
+    }
+  ]
+}

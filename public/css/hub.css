@@ -1,0 +1,355 @@
+/* ==========================================================================
+   Hub (página inicial) + páginas auxiliares
+   ========================================================================== */
+
+.hub {
+  padding-bottom: 3rem;
+}
+
+.hub-topo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-block: 1.5rem;
+}
+
+.marca {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.65rem;
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 1.25rem;
+}
+.marca__logo {
+  display: grid;
+  place-items: center;
+  width: 38px;
+  height: 38px;
+  border-radius: 12px;
+  background: var(--grad-btn);
+  box-shadow: 0 8px 24px -8px hsla(258, 90%, 60%, 0.8);
+}
+.marca__logo svg {
+  width: 20px;
+  height: 20px;
+  color: #fff;
+}
+
+.ponto-vivo {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: currentColor;
+  box-shadow: 0 0 0 0 currentColor;
+  animation: pulsar 2s infinite;
+}
+@keyframes pulsar {
+  70% {
+    box-shadow: 0 0 0 7px transparent;
+  }
+  100% {
+    box-shadow: 0 0 0 0 transparent;
+  }
+}
+
+/* Hero */
+.hub-hero {
+  padding-block: 3rem 3.5rem;
+  max-width: 820px;
+  margin-inline: auto;
+  text-align: center;
+}
+.hub-hero__eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.4rem 0.9rem;
+  border-radius: 99px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  color: var(--text-soft);
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+.hub-hero__eyebrow svg {
+  width: 15px;
+  height: 15px;
+  color: var(--pink);
+}
+.hub-hero__titulo {
+  margin-top: 1.25rem;
+  font-size: clamp(2rem, 5vw, 3.4rem);
+  font-weight: 800;
+  letter-spacing: -0.03em;
+}
+.hub-hero__texto {
+  margin: 1.1rem auto 0;
+  max-width: 560px;
+  color: var(--text-soft);
+  font-size: 1.05rem;
+}
+
+/* Seção/biblioteca */
+.hub-secao__cabecalho {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 1.25rem;
+}
+.hub-secao__titulo {
+  font-size: 1.35rem;
+}
+.hub-secao__contador {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+
+.hub-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+  gap: 1.5rem;
+  perspective: 1200px;
+}
+
+/* Card estilo biblioteca de jogos */
+.app-card {
+  --rx: 0deg;
+  --ry: 0deg;
+  --mx: 50%;
+  --my: 0%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  background: var(--bg-elev);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow);
+  transform: rotateX(var(--rx)) rotateY(var(--ry));
+  transform-style: preserve-3d;
+  transition:
+    transform 400ms var(--ease),
+    box-shadow var(--t),
+    border-color var(--t);
+}
+.app-card:hover {
+  border-color: color-mix(in srgb, var(--destaque) 55%, transparent);
+  box-shadow:
+    0 0 0 1px color-mix(in srgb, var(--destaque) 30%, transparent),
+    0 30px 60px -20px color-mix(in srgb, var(--destaque) 55%, transparent);
+  transition:
+    transform 80ms linear,
+    box-shadow var(--t),
+    border-color var(--t);
+}
+
+.app-card__capa {
+  position: relative;
+  aspect-ratio: 4 / 3.4;
+  overflow: hidden;
+}
+.app-card__capa img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition:
+    transform 700ms var(--ease),
+    filter var(--t);
+}
+.app-card:hover .app-card__capa img {
+  transform: scale(1.07);
+}
+.app-card__capa::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, transparent 45%, var(--bg-elev) 100%);
+}
+.app-card__brilho {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  background: radial-gradient(400px circle at var(--mx) var(--my), rgba(255, 255, 255, 0.16), transparent 45%);
+  opacity: 0;
+  transition: opacity var(--t);
+}
+.app-card:hover .app-card__brilho {
+  opacity: 1;
+}
+.app-card__status {
+  position: absolute;
+  top: 0.9rem;
+  left: 0.9rem;
+  z-index: 2;
+}
+.app-card__status .badge {
+  backdrop-filter: blur(10px);
+  background: rgba(10, 11, 20, 0.6);
+}
+.app-card__status svg,
+.app-card__info svg {
+  width: 13px;
+  height: 13px;
+}
+
+.app-card__corpo {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  gap: 0.6rem;
+  padding: 0.25rem 1.25rem 1.25rem;
+  margin-top: -1.5rem;
+  position: relative;
+  z-index: 2;
+}
+.app-card__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+.app-card__titulo {
+  font-size: 1.2rem;
+}
+.app-card__titulo small {
+  color: var(--text-muted);
+  font-weight: 500;
+  font-size: 0.85rem;
+}
+.app-card__descricao {
+  color: var(--text-soft);
+  font-size: 0.875rem;
+  flex: 1;
+}
+.app-card__rodape {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+  padding-top: 0.9rem;
+  border-top: 1px solid var(--border);
+}
+.app-card__info {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.78rem;
+  color: var(--text-muted);
+}
+.app-card__acao {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-left: auto;
+  font-weight: 600;
+  font-size: 0.875rem;
+  color: var(--destaque);
+}
+.app-card__acao svg {
+  width: 15px;
+  height: 15px;
+  transition: transform var(--t-fast);
+}
+.app-card:hover .app-card__acao svg:last-child {
+  transform: translateX(4px);
+}
+
+.app-card--bloqueado .app-card__capa img {
+  filter: saturate(0.6) brightness(0.75);
+}
+.app-card--bloqueado:hover .app-card__capa img {
+  filter: saturate(0.9) brightness(0.9);
+}
+
+.hub-rodape {
+  margin-top: 4rem;
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 0.8rem;
+}
+.hub-rodape code {
+  padding: 0.1rem 0.35rem;
+  border-radius: 6px;
+  background: var(--surface-2);
+}
+
+/* --------------------------------------------------------------------------
+   Páginas centrais (Em breve / 404)
+   -------------------------------------------------------------------------- */
+.pagina-centro {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  padding-block: 2rem;
+}
+
+.em-breve {
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  max-width: 860px;
+  border-radius: var(--radius-xl);
+  overflow: hidden;
+  box-shadow: var(--shadow-lg);
+}
+.em-breve__capa img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.em-breve__conteudo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1rem;
+  padding: 2.5rem;
+}
+.em-breve__conteudo .badge svg {
+  width: 13px;
+  height: 13px;
+}
+.em-breve__titulo {
+  font-size: clamp(1.8rem, 4vw, 2.6rem);
+  font-weight: 800;
+}
+.em-breve__texto {
+  color: var(--text-soft);
+}
+.em-breve__acoes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: 0.5rem;
+}
+
+.nao-encontrada {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  padding: 3rem;
+  border-radius: var(--radius-xl);
+  text-align: center;
+}
+.nao-encontrada__codigo {
+  font-family: var(--font-display);
+  font-size: 5rem;
+  font-weight: 800;
+  line-height: 1;
+}
+
+@media (max-width: 720px) {
+  .em-breve {
+    grid-template-columns: 1fr;
+  }
+  .em-breve__capa {
+    max-height: 220px;
+    overflow: hidden;
+  }
+  .em-breve__conteudo {
+    padding: 1.75rem;
+  }
+  .hub-hero {
+    padding-block: 1.5rem 2.5rem;
+  }
+}
